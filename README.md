@@ -33,4 +33,4 @@ java TodoKuliah
 
 ## Screenshot
 
-> `screenshot/tampilan.png`
+> `./screenshot/tampilan.png`

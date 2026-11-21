@@ -33,4 +33,4 @@ java TodoKuliah
 
 ## Screenshot
 
-> (![Hasil Program](screenshot/tampilan.png))
+> ![Hasil Program](screenshot/tampilan.png)
